@@ -4,7 +4,7 @@
 # - Execute 'make jar' to make a jar library file.
 # - Execute 'make clean' to clean up the working space.
 
-JAVAC = javac
+JAVAC = javac -encoding utf-8
 JAVAFLAGS = -O
 JAVADOC = javadoc
 
